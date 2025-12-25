@@ -3,7 +3,7 @@ import type {NextConfig} from 'next';
 const nextConfig: NextConfig = {
   output: 'export',
   basePath: '/studio',
-  assetPrefix: '/studio',
+  assetPrefix: '/studio/public',
   typescript: {
     ignoreBuildErrors: true,
   },
