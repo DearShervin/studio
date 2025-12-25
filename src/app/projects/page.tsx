@@ -50,7 +50,7 @@ const presentations = [
         subject: "Docker",
         description: "An overview of containerization technology using Docker, covering its core concepts, architecture, and benefits in modern software deployment.",
         details: "Presented at SRBIAU (English)",
-        downloadLink: "/pdfs/Docker-Presentation.pdf"
+        downloadLink: "studio/pdfs/Docker-Presentation.pdf"
     },
     {
         course: "Artificial Intelligence",
